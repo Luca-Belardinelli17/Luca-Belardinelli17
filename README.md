@@ -23,30 +23,6 @@ A lo largo de mi formación académica, he desarrollado una sólida base teóric
 
 ---
 
-## 🚀 Proyectos Destacados
-
-### 📂 [Sistema de Facturación](https://github.com/tu-usuario/sistema-facturacion)
-*Sistema completo de registro, gestión y persistencia de facturas desarrollado en C/C++.*
-
-* **Enfoque de Ingeniería:** Aplicación estricta de estructuras de datos dinámicas (listas enlazadas, pilas y colas) y manejo avanzado de archivos para la persistencia de datos en disco.
-* **Características Clave:**
-  * Implementación de módulos ABMC (Alta, Baja, Modificación y Consulta) de facturas.
-  * Capa robusta de validación de datos de entrada para garantizar la integridad de la información.
-  * Control y manejo de errores en tiempo de ejecución (parseo de archivos, desbordamientos).
-* **Habilidades demostradas:** Programación imperativa, gestión de memoria eficiente, algoritmia y abstracción de datos.
-
-### 📂 [Sistema de Gestión de Donaciones](https://github.com/tu-usuario/sistema-donaciones)
-*Desarrollo e implementación de un sistema de gestión para una entidad beneficiaria orientado a la optimización de reportes y seguimiento.*
-
-* **Enfoque de Ingeniería:** Diseño e implementación de la lógica de negocio orientada a optimizar el flujo de información de donantes. Integración con bases de datos para garantizar la consistencia, trazabilidad e integridad de registros históricos.
-* **Características Clave:**
-  * Arquitectura modular que separa la lógica de negocio de la persistencia de datos.
-  * Módulo automatizado para la generación de reportes métricos y estadísticos de donaciones.
-  * Actualmente en fase de desarrollo activo con entregas pautadas bajo metodología incremental.
-* **Habilidades demostradas:** Diseño de bases de datos, modularización, análisis de requerimientos y lógica orientada a procesos de negocio.
-
----
-
 ## 📈 Formación Académica Destacada (UTN FRBA)
 
 Mi enfoque universitario combina la rigurosidad matemática con la ingeniería aplicada. He acreditado mis conocimientos teóricos con **aprobación por promoción (Nota >= 8)** en materias troncales de la carrera:
@@ -61,7 +37,7 @@ Adicionalmente, cuento con una sólida comprensión teórica y práctica en **Pa
 ## 🎓 Certificaciones e Intereses
 * **Inteligencia Artificial Aplicada:** Cursos certificados avanzados por **Anthropic**, enfocados en la optimización de procesos y aplicación de modelos de lenguaje en entornos de desarrollo (Verificables en mi perfil de LinkedIn).
 * **Idiomas:** Español (Nativo) | Inglés (B2 - Upper Intermediate) | Francés (A2).
-* **Soft Skills:** Pensamiento analítico, comunicación efectiva intra y extra equipo, responsabilidad metodológica y fuerte orientación a la mejora continua del código y los procesos.
+* **Soft Skills:** Pensamiento analítico, comunicación efectiva intra y extra equipo, responsabilidad metodológica, capacidad resolutiva y fuerte orientación a la mejora continua del código y los procesos.
 
 ---
 
